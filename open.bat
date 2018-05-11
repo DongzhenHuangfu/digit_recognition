@@ -1,1 +1,1 @@
-activate CarND-Term1 & jupyter notebook digit_recognizer.ipynb
+jupyter notebook digit_recognizer.ipynb
